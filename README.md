@@ -1,1 +1,1 @@
-# Curiamente.web
+# Curiomente.web
